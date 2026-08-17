@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pcap
+*.pcapng
+*.log
+logs/
+wordlists/*.txt
+!wordlists/.gitkeep
+*.conf
+.vscode/
+.idea/
+build/
+dist/
+*.egg-info/
