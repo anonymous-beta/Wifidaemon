@@ -1,0 +1,21 @@
+[
+  {
+    "attack": "deauth",
+    "params": {
+      "bssid": "AA:BB:CC:DD:EE:FF",
+      "iface": "wlan0mon",
+      "count": 64
+    },
+    "timeout": 30,
+    "delay": 2
+  },
+  {
+    "attack": "handshake",
+    "params": {
+      "bssid": "AA:BB:CC:DD:EE:FF",
+      "iface": "wlan0mon",
+      "output": "daemon_handshake.pcap"
+    },
+    "timeout": 60
+  }
+]
