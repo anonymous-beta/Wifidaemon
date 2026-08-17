@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="WiFiDAEMON Logo" width="200">
+<img src="image-5.jpg" alt="WiFiDAEMON Logo" width="200">
 
 # 👿 WiFiDAEMON
 
