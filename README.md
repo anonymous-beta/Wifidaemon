@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="WiFiDAEMON Logo" width="200">
+
 # 👿 WiFiDAEMON
 
 ### *"Silent Guardian of the Airwaves"*
@@ -61,7 +63,7 @@ Designed for **Linux** and **Termux (root)**. No bloat. No slop. Just pure wirel
 │  1  AA:BB.. Demon  │  Monitor:   ENABLED                    │
 │  2  CC:DD.. Hidden │  Networks: 42                          │
 │                    │  Status:   ATTACKING                   │
-├────────────────────────────────────────────────────────────┤
+├─────────────────────────────────────────────────────────────┤
 │  DEMON LOG                                                  │
 │  [20:01] Monitor mode enabled on wlan0mon                   │
 │  [20:02] Scan complete: 42 networks found                   │
